@@ -1,4 +1,4 @@
-# AMD_Stock_Analysis_Forecasting
+# AMD Corp. Stock Analysis Forecasting
 This Project forecasts the next five years of Advanced Micro Devices (AMD). 
 <br/>AMD is a leading semiconductor company known for its central processing units (CPUs) and graphics processing units (GPUs). AMD has been a significant player in the semiconductor industry, benefiting from the growing demand for chips across various sectors, including data centers, personal computers, and smartphones.
 
